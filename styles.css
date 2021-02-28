@@ -1,110 +1,106 @@
 #bitter {
-    font-size: 20px;
+  font-size: 20px;
 }
 #poppins {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 #palette {
-    display: flex;
+  display: flex;
 }
 
 .bitter {
-    font-family: "Bitter", serif;
+  font-family: "Bitter", serif;
 }
 
 .light {
-    font-weight: 300;
+  font-weight: 300;
 }
 
 .italic {
-    font-style: italic;
+  font-style: italic;
 }
 
 .normal {
-    font-weight: 400;
+  font-weight: 400;
 }
 
 .bold {
-    font-weight: 700;
+  font-weight: 700;
 }
 
 .poppins {
-    font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .large {
-    font-size: 64px;
+  font-size: 64px;
 }
 
 .medium {
-    font-size: 24px;
+  font-size: 24px;
 }
 
 .small {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .colortext {
-    text-align: center;
+  text-align: center;
 }
 
 .color-panel {
-    display: inline-block;
-    width: 17%;
-    text-align: center;
-    margin: 20px auto;
-    min-height: 100px;
-    border: 2px solid #442220;
+  display: inline-block;
+  width: 17%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+  border: 2px solid #442220;
 }
 
-.dark-sienna{
-    background-color: #2e0014;
-    color: #fff;
+.dark-sienna {
+  background-color: #2e0014;
+  color: #fff;
 }
 
-.brown-sienna{
-    background-color: #442220;
-    color: #fff;
+.brown-sienna {
+  background-color: #442220;
+  color: #fff;
 }
 
-.moss-green{
-    background-color: #809848;
-    color: #000;
+.moss-green {
+  background-color: #809848;
+  color: #000;
 }
 
-.olivine{
-    background-color: #B0CA87;
-    color: #000;
+.olivine {
+  background-color: #b0ca87;
+  color: #000;
 }
 
-.celadon{
-    background-color: #B5DEAD;
-    color: #000;
+.celadon {
+  background-color: #b5dead;
+  color: #000;
 }
 
 .bitter ul {
-    color: #2e0014;
+  color: #2e0014;
 }
 
 html {
-    color: #2e0014;
-    height: 100%;
-    background-image: linear-gradient(#FFF, #B5dead);
+  color: #2e0014;
+  height: 100%;
+  background-image: linear-gradient(#fff, #b5dead);
 }
 
 article {
-    border: 2px solid #442220;
-    margin: 15px 10px;
-    padding: 10px 25px;
-    background-image: linear-gradient(to bottom right, #809848, #b5dead);
-}
-
-body {
-    
+  border: 2px solid #442220;
+  margin: 15px 10px;
+  padding: 10px 25px;
+  background-image: linear-gradient(to bottom right, #809848, #b5dead);
 }
 
 header {
-    margin: auto;
-    text-align: center;
+  margin: auto;
+  text-align: center;
 }
